@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lulzduh
+- 👀 I’m interested in security research.  
+- 🌱 I’m currently learning backend network development.
+- 💞️ I’m looking to collaborate on whatever at this point.
