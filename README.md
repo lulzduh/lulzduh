@@ -1,1 +1,1 @@
-Hey, I am @lulzduh, I am a security researcher that really enjoys cybersecurity.
+Hey, I'm @lulzduh, just a security researcher that really enjoys cybersecurity.
