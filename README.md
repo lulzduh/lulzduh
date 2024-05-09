@@ -1,1 +1,1 @@
-Hey, I am @lulzduh, I am a security researcher that really enjoys cybersecurity. My dream job is to be a cybersecurity engineer. I also like a bunch of other nerdy stuff. I know 3 programming languages, Python, Java, Javscript, and now learning bash. Thanks for stopping by. It means a lot.
+Hey, I am @lulzduh, I am a security researcher that really enjoys cybersecurity.
